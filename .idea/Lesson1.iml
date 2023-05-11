@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/serv" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/set/Overone" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/set/set" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/set" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/setting" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <content url="file://$MODULE_DIR$/.idea" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
